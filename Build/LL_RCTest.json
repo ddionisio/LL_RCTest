@@ -1,13 +1,16 @@
 {
 "companyName": "Renegadeware",
 "productName": "LL_RC",
+"productVersion": "1.1.0",
 "dataUrl": "LL_RCTest.data.unityweb",
 "wasmCodeUrl": "LL_RCTest.wasm.code.unityweb",
 "wasmFrameworkUrl": "LL_RCTest.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
-"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"}
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
 }
