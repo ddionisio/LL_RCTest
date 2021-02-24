@@ -1,7 +1,7 @@
 {
 "companyName": "Renegadeware",
 "productName": "LL_RC",
-"productVersion": "1.2.2",
+"productVersion": "1.2.3",
 "dataUrl": "LL_RCTest.data.unityweb",
 "wasmCodeUrl": "LL_RCTest.wasm.code.unityweb",
 "wasmFrameworkUrl": "LL_RCTest.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.0f1"
+"unityVersion": "2019.4.20f1"
 }
