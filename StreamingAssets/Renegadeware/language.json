@@ -211,7 +211,8 @@
     "inputConfigTabletRight": "Right-Handed",
     "inputConfigTabletLeft": "Left-Handed",
     "press_to_enter": "Press to Enter",
-    "press_to_jump": "Press to Jump"
+    "press_to_jump": "Press to Jump",
+    "press_to_move": "Use this to move Left or Right"
   },
   "es": {
     "welcome": "¡Bienvenido!",
@@ -420,6 +421,7 @@
     "inputConfigTabletRight": "",
     "inputConfigTabletLeft": "",
     "press_to_enter": "",
-    "press_to_jump": ""
+    "press_to_jump": "",
+    "press_to_move": ""
   }
 }
