@@ -204,7 +204,14 @@
     "schist": "Schist",
     "schistDesc": "A metamorphic rock made up of platy crystals formed from clay that has undergone heat and pressure.",
     "slate": "Slate",
-    "slateDesc": "A low-grade metamorphism of shale. It features a sheet-like surface, and dull in color."
+    "slateDesc": "A low-grade metamorphism of shale. It features a sheet-like surface, and dull in color.",
+    "inputConfigTitle": "INPUT",
+    "inputConfigKeyboard": "Keyboard",
+    "inputConfigTablet": "Touch Screen",
+    "inputConfigTabletRight": "Right-Handed",
+    "inputConfigTabletLeft": "Left-Handed",
+    "press_to_enter": "Press to Enter",
+    "press_to_jump": "Press to Jump"
   },
   "es": {
     "welcome": "¡Bienvenido!",
@@ -406,6 +413,13 @@
     "schist": "Esquisto",
     "schistDesc": "Una piedra metamórfica compuesta de cristales platinos formados por arcilla que ha sufrido calor y presión.",
     "slate": "Pizarra (roca)",
-    "slateDesc": "Un metamorfismo de esquisto de bajo grado. Presenta una superficie similar a una lámina y de color opaco."
+    "slateDesc": "Un metamorfismo de esquisto de bajo grado. Presenta una superficie similar a una lámina y de color opaco.",
+    "inputConfigTitle": "",
+    "inputConfigKeyboard": "",
+    "inputConfigTablet": "",
+    "inputConfigTabletRight": "",
+    "inputConfigTabletLeft": "",
+    "press_to_enter": "",
+    "press_to_jump": ""
   }
 }
