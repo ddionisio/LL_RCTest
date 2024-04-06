@@ -415,13 +415,13 @@
     "schistDesc": "Una piedra metamórfica compuesta de cristales platinos formados por arcilla que ha sufrido calor y presión.",
     "slate": "Pizarra (roca)",
     "slateDesc": "Un metamorfismo de esquisto de bajo grado. Presenta una superficie similar a una lámina y de color opaco.",
-    "inputConfigTitle": "",
-    "inputConfigKeyboard": "",
-    "inputConfigTablet": "",
-    "inputConfigTabletRight": "",
-    "inputConfigTabletLeft": "",
-    "press_to_enter": "",
-    "press_to_jump": "",
-    "press_to_move": ""
+    "inputConfigTitle": "ENTRADAS",
+    "inputConfigKeyboard": "Teclado",
+    "inputConfigTablet": "Pantalla táctil",
+    "inputConfigTabletRight": "Mano derecha",
+    "inputConfigTabletLeft": "Mano izquierda",
+    "press_to_enter": "Pulsa para entrar",
+    "press_to_jump": "Pulsa para saltar ",
+    "press_to_move": "Pulsa para moverte a la derecha o izquierda"
   }
 }
